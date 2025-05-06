@@ -13,7 +13,7 @@ const style = StyleSheet.create({
       flex: 1,
       justifyContent: 'center',
       alignItems: 'center',
-      backgroundColor: 'pink',
+      backgroundColor: 'blue',
     },
     containerTexto: {
       fontSize: 30,
