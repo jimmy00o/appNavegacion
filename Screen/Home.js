@@ -18,7 +18,7 @@ container: {
   flex: 1,
   justifyContent: 'center',
   alignItems: 'center',
-  backgroundColor: 'brown',
+  backgroundColor: 'green',
 },
 texto: {
   fontSize: 30,
